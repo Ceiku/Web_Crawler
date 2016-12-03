@@ -1,0 +1,18 @@
+diff a/.idea/workspace.xml b/.idea/workspace.xml	(rejected hunks)
+@@ -1,15 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-<<<<<<< HEAD
+-    <list default="true" id="5a89abc4-08d3-4931-ad40-10a9a07aecdc" name="Default" comment="" />
+-=======
+     <list default="true" id="5a89abc4-08d3-4931-ad40-10a9a07aecdc" name="Default" comment="">
+       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/pg42innleverin2/MyEngine.class" afterPath="$PROJECT_DIR$/out/production/pg42innleverin2/MyEngine.class" />
+       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MyEngine.java" afterPath="$PROJECT_DIR$/src/MyEngine.java" />
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WebPageReader.java" afterPath="$PROJECT_DIR$/src/WebPageReader.java" />
+       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+     </list>
+->>>>>>> 64fcb53e584f50abe4ca7fadda45c331bcb99a62
+     <ignored path="pg42innleverin2.iws" />
+     <ignored path=".idea/workspace.xml" />
+     <ignored path="$PROJECT_DIR$/out/" />
